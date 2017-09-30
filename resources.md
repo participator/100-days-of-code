@@ -13,6 +13,7 @@
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+2. [FreeCodeCamp Guide Git Clone] https://guide.freecodecamp.org/git/git-clone
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
