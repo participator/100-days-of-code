@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 3: October 2, 2017
+
+**Today's Progress**: Started FreeCodeCamp FrontEnd Development Certification.
+
+**Thoughts:** So far it's a review for me. I can't wait to get to the projects.
+
+**Link to work:** [FreeCodeCamp FrontEnd Development](https://www.freecodecamp.org)
 
 ### Day 2: October 1, 2017
 
