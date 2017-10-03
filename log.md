@@ -3,7 +3,7 @@
 
 **Today's Progress**: Started FreeCodeCamp FrontEnd Development Certification.
 
-**Thoughts:** So far it's a review for me. I can't wait to get to the projects.
+**Thoughts:** So far it's a review for me. I can't wait to get to the projects.  I value the basics, so I will diligently and quickly follow the ciriculum.  Never know what might be made more clear for me by doing so.
 
 **Link to work:** [FreeCodeCamp FrontEnd Development](https://www.freecodecamp.org)
 
