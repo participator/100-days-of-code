@@ -1,4 +1,20 @@
 # 100 Days Of Code - Log
+### Day 5: October 4, 2017
+
+**Today's Progress**: FCC FrontEnd Development Certification: Started jQuery section.  I also linked my github account today.
+
+**Thoughts:** I skipped learning jQuery in favor of VanillaJS, so I'm learning.  Goodstuff. I find it interesting that jQuery is taught before VanillaJS.
+
+**Link to work:** [FreeCodeCamp FrontEnd Development](https://www.freecodecamp.org)
+
+### Day 4: October 3, 2017
+
+**Today's Progress**: FCC FrontEnd Development Certification: progressed to starting the Bootstrap section.
+
+**Thoughts:** I'm learning...
+
+**Link to work:** [FreeCodeCamp FrontEnd Development](https://www.freecodecamp.org)
+
 ### Day 3: October 2, 2017
 
 **Today's Progress**: Started FreeCodeCamp FrontEnd Development Certification.
