@@ -1,4 +1,21 @@
 # 100 Days Of Code - Log
+
+### Day 6: October 7, 2017
+
+**Today's Progress**: FCC FrontEnd Development Certification: Create codepen.io account. Build tribute page.
+
+**Thoughts:** Completed the first project using Bootstrap 4.
+
+**Link to work:** [FreeCodeCamp FrontEnd Development](https://www.freecodecamp.org)
+
+### Day 5: October 5, 2017
+
+**Today's Progress**: FCC FrontEnd Development Certification: Completed jQuery section.
+
+**Thoughts:** I just reached the first project and already on day 5!!!
+
+**Link to work:** [FreeCodeCamp FrontEnd Development](https://www.freecodecamp.org)
+
 ### Day 5: October 4, 2017
 
 **Today's Progress**: FCC FrontEnd Development Certification: Started jQuery section.  I also linked my github account today.
