@@ -8,7 +8,7 @@
 For this, I ran into socket.io that should help achieve this.  However, I wonder how I can do this natively with node.  socket.io has a create a chat app tutorial
 that I will do tomorrow. 
 
-**Link to work:** [Node File System Example] (https://github.com/participator/Node-File-System-Example)
+**Link to work:** [Node File System Example](https://github.com/participator/Node-File-System-Example)
 
 ### Day 7: Sunday, October 8, 2017
 
