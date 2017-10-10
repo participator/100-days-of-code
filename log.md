@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 8: Monday, October 9, 2017
+
+**Today's Progress**: Reviewed modified code from node app.  Add response as html and json.
+
+**Thoughts:** I will learn how to pass a value from the server to the client.  The client will than increment that value and send it back to the server.
+For this, I ran into socket.io that should help achieve this.  However, I wonder how I can do this natively with node.  socket.io has a create a chat app tutorial
+that I will do tomorrow. 
+
+**Link to work:** [Node File System Example] (https://github.com/participator/Node-File-System-Example)
+
+### Day 7: Sunday, October 8, 2017
+
+**Today's Progress**: Develop a node application that logs request details to a file.
+
+**Thoughts:** Node is cool because it uses Javascript.  Only used node for it's package manager in the past.  Using as a server is cool and helps me understand the parts of the web better.  
+
+**Resources:** [Node](https://nodejs.org/dist/latest-v6.x/docs/api/)
+
 ### Day 6: October 7, 2017
 
 **Today's Progress**: FCC FrontEnd Development Certification: Create codepen.io account. Build tribute page.
