@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 10: Wednesday, October 18, 2017
+
+**Today's Progress**: Start Building a Personal Portfolio
+
+**Thoughts:** Today I completed the logo.  I could not get the arcTo function to draw what I wanted, so I switched to the quadraticCurveTo and was easily able to get the curve I wanted.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
+
+### Day 9: Tuesday, October 17, 2017
+
+**Today's Progress**: Start Building a Personal Portfolio
+
+**Thoughts:** I went off on a tangent (sort of) and create a custom logo using canvas.  This was my first time playing with it.  The straight lines were easy to create, but the hardest thing for me was creating a curve.  I found that positioning was basically done by trail and error, however, I would love to find a better way.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
+
 ### Day 8: Monday, October 9, 2017
 
 **Today's Progress**: Reviewed modified code from node app.  Add response as html and json.
@@ -8,7 +24,7 @@
 For this, I ran into socket.io that should help achieve this.  However, I wonder how I can do this natively with node.  socket.io has a create a chat app tutorial
 that I will do tomorrow. 
 
-**Link to work:** [Node File System Example] (https://github.com/participator/Node-File-System-Example)
+**Link to work:** [Node File System Example](https://github.com/participator/Node-File-System-Example)
 
 ### Day 7: Sunday, October 8, 2017
 
