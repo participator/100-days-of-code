@@ -4,7 +4,7 @@
 
 **Today's Progress**: Continue: Building a Personal Portfolio. Color logo. Add Bootrap classes to navigation. Research when to used button over anchor tags for on page navigation links.
 
-**Thoughts:** Structuring the page using html5 tags. My logo is pretty nice.  The contact my be difficult to get right, so I may add quick text to keep moving.
+**Thoughts:** Structuring the page using html5 tags. My logo is pretty nice.  The content my be difficult to get right, so I may add quick text to keep moving.
 
 **Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
 
