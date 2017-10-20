@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 11: Thursday, October 19, 2017
+### Day 12: Thursday, October 19, 2017
 
 **Today's Progress**: Continue: Building a Personal Portfolio. Color logo. Add Bootrap classes to navigation. Research when to used button over anchor tags for on page navigation links.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
 
-### Day 10: Wednesday, October 18, 2017
+### Day 11: Wednesday, October 18, 2017
 
 **Today's Progress**: Continue: Building a Personal Portfolio
 
@@ -16,7 +16,7 @@
 
 **Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
 
-### Day 9: Tuesday, October 17, 2017
+### Day 10: Tuesday, October 17, 2017
 
 **Today's Progress**: Start Building a Personal Portfolio
 
@@ -24,7 +24,7 @@
 
 **Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
 
-### Day 8: Monday, October 9, 2017
+### Day 9: Monday, October 9, 2017
 
 **Today's Progress**: Reviewed modified code from node app.  Add response as html and json.
 
@@ -34,7 +34,7 @@ that I will do tomorrow.
 
 **Link to work:** [Node File System Example](https://github.com/participator/Node-File-System-Example)
 
-### Day 7: Sunday, October 8, 2017
+### Day 8: Sunday, October 8, 2017
 
 **Today's Progress**: Develop a node application that logs request details to a file.
 
@@ -42,7 +42,9 @@ that I will do tomorrow.
 
 **Resources:** [Node](https://nodejs.org/dist/latest-v6.x/docs/api/)
 
-### Day 6: October 7, 2017
+**Link to work:** [Node File System Example](https://github.com/participator/Node-File-System-Example)
+
+### Day 7: October 7, 2017
 
 **Today's Progress**: FCC FrontEnd Development Certification: Create codepen.io account. Build tribute page.
 
@@ -50,7 +52,7 @@ that I will do tomorrow.
 
 **Link to work:** [FreeCodeCamp FrontEnd Development](https://www.freecodecamp.org)
 
-### Day 5: October 5, 2017
+### Day 6: October 5, 2017
 
 **Today's Progress**: FCC FrontEnd Development Certification: Completed jQuery section.
 
