@@ -2,7 +2,15 @@
 
 ### Day 10: Wednesday, October 18, 2017
 
-**Today's Progress**: Start Building a Personal Portfolio
+**Today's Progress**: Continue: Building a Personal Portfolio. Color logo. Add Bootrap classes to navigation. Research when to used button over anchor tags for on page navigation links.
+
+**Thoughts:** Structuring the page using html5 tags. My logo is pretty nice.  The contact my be difficult to get right, so I may add quick text to keep moving.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
+
+### Day 10: Wednesday, October 18, 2017
+
+**Today's Progress**: Continue: Building a Personal Portfolio
 
 **Thoughts:** Today I completed the logo.  I could not get the arcTo function to draw what I wanted, so I switched to the quadraticCurveTo and was easily able to get the curve I wanted.
 
