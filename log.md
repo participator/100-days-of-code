@@ -1,10 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: Monday, October 23, 2017,
+**Today's Progress**: Continue: Building a Personal Portfolio. Add placeholders for portfolio objects. Placeholders are responsive.  Add social media icons.
+
+**Thoughts:** For my first personal fully created site, it's looking nice.  Bootstrap does make creating responsive sites easier.  Next I'll finish by adding links to social media icons.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
+
 ### Day 12: Thursday, October 19, 2017
 
 **Today's Progress**: Continue: Building a Personal Portfolio. Color logo. Add Bootrap classes to navigation. Research when to used button over anchor tags for on page navigation links.
 
-**Thoughts:** Structuring the page using html5 tags. My logo is pretty nice.  The contact my be difficult to get right, so I may add quick text to keep moving.
+**Thoughts:** Structuring the page using html5 tags. My logo is pretty nice.  The contact may be difficult to get right, so I may add quick text to keep moving.
 
 **Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
 
