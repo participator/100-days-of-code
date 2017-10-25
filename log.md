@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 14: Tuesday, October 24, 2017,
+**Today's Progress**: Complete: Building a Personal Portfolio adding links to social media icons.  Started basic javascript section.
+
+**Thoughts:** I'm intermediate in Javascript, so this is basically a review.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/participator/full/WZgebm/)
+
 ### Day 13: Monday, October 23, 2017,
 **Today's Progress**: Continue: Building a Personal Portfolio. Add placeholders for portfolio objects. Placeholders are responsive.  Add social media icons.
 
