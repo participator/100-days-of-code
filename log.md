@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: Wednesday, October 25, 2017,
+**Today's Progress**: Continue: Basic Javascript
+
+ **Thoughts:** More reviewing, but today I truly understand what is means when it is said that strings (literals) are immutable in JS.  I learned with perfect example of assigning a string to a variable and attempting to change a character by indexing in it and updating the value.
+ ex. var thing = "mop"; thing[0] = "b"; console.log(thing); // "mop"
+
+**Link to work:** [FCC](https://www.freecodecamp.org/participator)
+
 ### Day 14: Tuesday, October 24, 2017,
 **Today's Progress**: Complete: Building a Personal Portfolio adding links to social media icons.  Started basic javascript section.
 
