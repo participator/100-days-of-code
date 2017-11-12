@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: Saturday, November 11, 2017
+**Today's Progress**: Complete Basic Javascript, Complete Object Oriented and Functional Programming, Start Basic Algorithm Scripting
+
+**Thoughts: Javascript section was long, but I'm now finished.  I learned how to create and use constructors in JS. I seen them used before, but haven't used them myself.
+**Link to work:** [FCC](https://www.freecodecamp.org/participator)
+
+### Day 16: Wednesday, November 8, 2017
+**Today's Progress**: Continue: Basic Javascript
+
+
 ### Day 15: Wednesday, October 25, 2017,
 **Today's Progress**: Continue: Basic Javascript
 
