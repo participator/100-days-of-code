@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 18: Saturday, November 18, 2017
+### Day 19: Saturday, November 19, 2017
+**Today's Progress**: Completed Basic Algorithm Scripting
+
+**Thoughts: I really enjoyed completing these challenges. Although, many exercises seemed simple in concept, I see areas where my speed of creating the solution can improve.  That means I'll be coding even more.
+**Link to work:** [FCC](https://www.freecodecamp.org/participator)
+
+### Day 18: Saturday, November 17, 2017
 **Today's Progress**: Continue Basic Algorithm Scripting
 
 **Thoughts: I am able to get to all of the problems so far without help.  I am getting better as I go along with solving them faster.  After solving the problem, it's nice to review others solutions to find ways to code less lines.
