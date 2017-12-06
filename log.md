@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 20, Tuesday, December 06, 2017
+**Today's Progress**: Build a Random Quote Machine
+
+**Thoughts: I am focusing a lot on design, learning to force cahe, getting quote from list retrieved from api, and using fetch.
+**Next: Force retrieving quotes from cache, so they won't be refreshed ever time button is pressed. Animated quote with fly-in.
+**Link to work:** [Get a Quote](https://s.codepen.io/participator/debug/jadovj/RBMOJeEgzJZk)
+
 ### Day 19: Saturday, November 19, 2017
 **Today's Progress**: Completed Basic Algorithm Scripting
 
