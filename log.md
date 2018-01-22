@@ -1,7 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 25, Sunday, January 21, 2017
+**Today's Progress**: Continue learning about Service Workers and Caching resources in the browser.
+
 ### Day 24, Friday, January 19, 2017
-**Today's Progress**: Learning about Service Workers
+**Today's Progress**: Continue: Learning about Service Workers
 
 **Thoughts**: Continuing to learn about funtional offline web sites
 
