@@ -1,4 +1,6 @@
 # 100 Days Of Code - Log
+### Day 26, Tuesday, January 23, 2017
+**Today's Progress**: Continue learning to check cache for a resource before fetching from the network.
 
 ### Day 25, Sunday, January 21, 2017
 **Today's Progress**: Continue learning about Service Workers and Caching resources in the browser.
