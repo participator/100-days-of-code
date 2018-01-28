@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 29, Saturday, January 27, 2017
+**Today's Progress**: Check service worker state and display message to user when new service worker is installed.
+
+### Day 28, Friday, January 26, 2017
+**Today's Progress**: Cleanup servcie worker when creating a new one.
+
+### Day 27, Thurday, January 25, 2017
+**Today's Progress**: Continue learning to check cache for a resource before fetching from the network.
+
 ### Day 26, Tuesday, January 23, 2017
 **Today's Progress**: Learning to check cache for a resource before fetching from the network.
 
