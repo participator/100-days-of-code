@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
-### Day 29, Saturday, January 27, 2017
+### Day 30, Saturday, February 24, 2018
+**Today's Progress**: Learn more about Promises. Hacked around with CSS before & after.
+
+**Thoughts**: I don't currently use promises much (still using callbacks do to IE compatibility restrictions), so I appreciate improving my knowledge on these.  Learning about more usages for before and after is incredible.  I had no idea that I haven't used them to their full potential.
+
+### Day 29, Saturday, January 27, 2018
 **Today's Progress**: Check service worker state and display message to user when new service worker is installed.
 
-### Day 28, Friday, January 26, 2017
-**Today's Progress**: Cleanup servcie worker when creating a new one.
+### Day 28, Friday, January 26, 2018
+**Today's Progress**: Cleanup service worker when creating a new one.
 
-### Day 27, Thurday, January 25, 2017
+### Day 27, Thurday, January 25, 2018
 **Today's Progress**: Continue learning to check cache for a resource before fetching from the network.
 
-### Day 26, Tuesday, January 23, 2017
+### Day 26, Tuesday, January 23, 2018
 **Today's Progress**: Learning to check cache for a resource before fetching from the network.
 
-### Day 25, Sunday, January 21, 2017
+### Day 25, Sunday, January 21, 2018
 **Today's Progress**: Continue learning about Service Workers and Caching resources in the browser.
 
-### Day 24, Friday, January 19, 2017
+### Day 24, Friday, January 19, 2018
 **Today's Progress**: Continue: Learning about Service Workers
 
 **Thoughts**: Continuing to learn about funtional offline web sites
 
-### Day 23, Saturday, January 13, 2017
+### Day 23, Saturday, January 13, 2018
 **Today's Progress**: Learning about Service Workers
 
 **Thoughts**: I'm excited to learned about making web sites functional offline and I'm sold on it being the future of applications (web and possibly replacing native).
 
-### Day 22, Friday, January 12, 2017
+### Day 22, Friday, January 12, 2018
 **Today's Progress**: Testing React App with Jest
 
 **Thoughts**: My first thought is that snapshot testing with Jest is pretty simple and straight forward. 
