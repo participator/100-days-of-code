@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 30, Saturday, March 4, 2018
+**Today's Progress**: Continuing Udacity, Grow With Google, Mobile Web Specialist Track:
+Completed Polyfill and Transpiling course. Staring working with IndexDB and reading Head First Design Patterns.
+Troubleshooting node server not stopping when pressing Ctrl+C.
+
+**Thoughts**: I am more of a VanillaJS dev and an advocate for the deprecation of IE11.  I have to start using transpiling more ofter so that I can worry less about browser capability.
+
 ### Day 30, Saturday, February 24, 2018
 **Today's Progress**: Learn more about Promises. Hacked around with CSS before & after.
 
