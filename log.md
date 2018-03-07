@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
-### Day 30, Saturday, March 4, 2018
+### Day 32, Tuesday, March 6, 2018
+**Today's Progress**: Continuing Udacity, Grow With Google, Mobile Web Specialist Track:
+Continue IndexDB and reading Head First Design Patterns.
+
+### Day 31, Saturday, March 4, 2018
 **Today's Progress**: Continuing Udacity, Grow With Google, Mobile Web Specialist Track:
 Completed Polyfill and Transpiling course. Staring working with IndexDB and reading Head First Design Patterns.
 Troubleshooting node server not stopping when pressing Ctrl+C.
