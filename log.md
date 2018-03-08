@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 33, Wednesday, March 7, 2018
+**Today's Progress**: Work on project making all JS available under single namespace. Read about design tips for text.
+Start reading the Observer Pattern from Head First Design Patterns and create example in C#.
+
+**Thoughts**: Someone wrote these design tips and patterns with me in mind and answered some things I question and (re)invent along the way.
+**Link to Article**: https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9
+
 ### Day 32, Tuesday, March 6, 2018
 **Today's Progress**: Continuing Udacity, Grow With Google, Mobile Web Specialist Track:
 Continue IndexDB and reading Head First Design Patterns.
