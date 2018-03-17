@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 34, Friday, March 16, 2018
+**Today's Progress**: Work on project implementing filter to use on predefined filters and search box.
+
+**Thoughts**: This filter approach uses behavior delegation as shown in the YDKJS series.  I read this JS resource over a year ago and still like using for reference.
+**Link to Article**: https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md
+
 ### Day 33, Wednesday, March 7, 2018
 **Today's Progress**: Work on project making all JS available under single namespace. Read about design tips for text.
 Start reading the Observer Pattern from Head First Design Patterns and create example in C#.
