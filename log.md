@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 35, Monday, March 20, 2018
+**Today's Progress**: Work on project adding flex to align two columns of text in the center of the page.  Find and add several resources. Rediscovered a good resource that I previously underrated #DontJudgeASiteByItsStyles.
+
+**Thoughts**: Making good progress. Having good team chemistry is turning into a good product.
+**Link to Article**: https://www.htmlgoodies.com/
+
 ### Day 34, Friday, March 16, 2018
 **Today's Progress**: Work on project implementing filter to use on predefined filters and search box.
 
