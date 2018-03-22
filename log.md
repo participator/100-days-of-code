@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 36, Wednesday, March 22, 2018
+**Today's Progress**: Implementing a more flexible filter that searches by various fields and text.
+
+**Thoughts**: I'm planning to catch most used cases, so this involves a lot of planning.
+Also, this is my first day trying to set a schedule to wake up early and code :).
+
 ### Day 35, Monday, March 20, 2018
 **Today's Progress**: Work on project adding flex to align two columns of text in the center of the page.  Find and add several resources. Rediscovered a good resource that I previously underrated #DontJudgeASiteByItsStyles.
 
