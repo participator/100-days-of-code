@@ -1,4 +1,9 @@
 # 100 Days Of Code - Log
+### Day 37, Saturday, March 24, 2018
+**Today's Progress**: Peer Programming, reviewing service worker course on Udacity.
+
+**Thoughts**: This makes much more sense the second time around.  Almost ready to start implementing it.
+
 ### Day 36, Wednesday, March 22, 2018
 **Today's Progress**: Implementing a more flexible filter that searches by various fields and text.
 
