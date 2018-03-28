@@ -1,4 +1,9 @@
 # 100 Days Of Code - Log
+### Day 38, Monday, March 26, 2018
+**Today's Progress**: Work on project, refactoring filter using default parameters and both array and object destructing to ease development of variable length of parameters.
+
+**Thoughts**: Implementing more ES6 features in the browser :0, i.e. boycotting IE :).
+
 ### Day 37, Saturday, March 24, 2018
 **Today's Progress**: Peer Programming, reviewing service worker course on Udacity.
 
