@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+### Day 40, Friday, March 30, 2018
+**Today's Progress**: Grow with Google Udacity Course, going over service worker section again.
+
+**Thoughts**: Even though service workers have been around for a few years, I think this is my time to be at the forefront of a technology before it is used everywhere.
+
+### Day 39, Wednesday, March 28, 2018
+**Today's Progress**: Work on project, after refactoring the filter today, I realized that I forgot a case.  Another refactor is on it's way.
+
+**Thoughts**: Creating a general filter takes a lot of thought and planning.
+
 ### Day 38, Monday, March 26, 2018
 **Today's Progress**: Work on project, refactoring filter using default parameters and both array and object destructing to ease development of variable length of parameters.
 
