@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+### Day 42, Friday, April 6, 2018
+**Today's Progress**: Intimate time with git learning to revert X-amount of changes with and without commit messages, getting comfortable squashing commits with rebase, creating remote branches, and having multiple local branches track multiple remote branches.
+
+**Thoughts**: After redoing a revert several times, pushing it, and having to do it again, I am very comfortable undoing changes. I may never need StackOverflow again. J/k, lol.
+
+### Day 41, Thursday, April 5, 2018
+**Today's Progress**: I finally have a working filter;Attended an SEO meetup and learned a little about increasing websites search rank.
+
+**Thoughts**: This took longer than expected, but I learned things along the way and as a result I'm better with ES6!
+**Link to Work**:
+
 ### Day 40, Friday, March 30, 2018
 **Today's Progress**: Grow with Google Udacity Course, going over service worker section again.
 
